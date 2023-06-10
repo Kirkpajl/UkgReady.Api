@@ -56,7 +56,7 @@ You can find all of the methods to connect with me at my [blog](https://joshuaki
 
 #### License
 
-This work is [licensed](https://raw.githubusercontent.com/kirkpajl/ukgready.api/master/LICENSE) under:
+This work is [licensed](https://github.com/kirkpajl/ukgready.api/blob/master/LICENSE) under:
 
 The MIT License (MIT)
 Copyright (c) 2023 Josh Kirkpatrick
