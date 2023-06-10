@@ -1,12 +1,13 @@
 # UKG Ready API C# .NET SDK
-===================================
 
-## IMP NOTE:
-* Not maintaining this repo project actively anymore.
+#### IMPORTANT NOTE:
+* I am not actively maintaining this repo project.
 * If you find issues - please reach out with a PR that would solve it. I would try to push NuGET with updates to help as soon as I can.
-* While I am not actively looking out for this work, if anyone is interested to take over as maintainer - please contact me, thanks!
+* If anyone is interested to take over as maintainer - please contact me, thanks!
 
-<img src="https://raw.githubusercontent.com/kirkpajl/ukgready.api/master/ukg-logo.png" alt="UKG Logo" width="384" height="128">
+---
+
+<img src="https://github.com/Kirkpajl/UkgReady.Api/blob/master/ukg-logo.png?raw=true" alt="UKG Logo" width="192" height="64">
 
 ### UKG Ready API implementation in C#.NET
 
@@ -17,31 +18,31 @@ This library can be used from NuGet channel:
 
 * [UKG Ready API Package](https://www.nuget.org/packages/ukgready.api/) - Version 1.0.0: `Install-Package UkgReady.Api`
 
-**Please note:** This source and nuget are a work-in-progress state, few or many API methods / calls might be missing.
+**Please note:** This source and nuget are a work-in-progress.  Not all API methods/calls have been included/tested.
 
 ---
 
 #### <a name="how-to"></a>Documentation:
-Further details on how to use / integrate UkgReady.Api packages please refer this repository wiki pages.
+For further details on how to use/integrate the UkgReady.Api package, please refer to the repository wiki page.
 
 [UKG Ready API .NET SDK WIKI](https://github.com/kirkpajl/ukgready.api/wiki)
 
 ---
 
 #### <a name="issues-bugs"></a>Issue / bug:
-
-If you have query, issues or bugs, it means you have shown interest and I thank you for that.
+If you have a query, issues or bugs, it means that you have shown interest in this project, and I thank you for that.
 Feel free to ask, suggest, report issue or post a bug [here](https://github.com/kirkpajl/ukgready.api/issues) in context of this library use.
 
-**Please note:** If your query / issue / bug is related to UKG Ready API, I recommend to post it to official [UKG Support](https://www.ukg.com/support/).
+**Please note:** If your query/issue/bug is related to UKG Ready API, I recommend posting it to the official [UKG Support](https://www.ukg.com/support/) forum.
 
-You can find all possible ways to connect with me at my [blog](https://joshuakirkpatrick.com/contact) (ref. footer)
+You can find all of the methods to connect with me at my [blog](https://joshuakirkpatrick.com/contact) (ref. footer)
 
 ---
 
 #### <a name="references"></a>Reference:
 
 * [UKG Ready API](https://secure.workforceready.com.au/ta/docs/rest/public/) - Official documentation
+* [My Blog](https://joshuakirkpatrick.com/) - My personal blog
 
 ---
 
