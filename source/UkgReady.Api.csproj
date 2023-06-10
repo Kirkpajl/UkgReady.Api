@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
+    <PackageReference Include="System.Net.Http.Json" Version="7.0.1" />
+    <PackageReference Include="System.Text.Json" Version="7.0.2" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <PackageId>UkgReady.Api</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Josh Kirkpatrick</Authors>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <RepositoryUrl>https://github.com/Kirkpajl/UkgReady.Api</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Kirkpajl/UkgReady.Api</PackageProjectUrl>
+    <PackageTags>UKG Ready, Kronos</PackageTags>
+    <Description>A C#/.net client library to interact with the UKG Ready API. The client does not fully implement all the API features (just yet) as it is following the needs of another project.</Description>
+  </PropertyGroup>
+
+</Project>
