@@ -7,8 +7,6 @@
 * If you find issues - please reach out with a PR that would solve it. I would try to push NuGET with updates to help as soon as I can.
 * If anyone is interested to take over as maintainer - please contact me, thanks!
 
----
-
 ## Latest NuGet Release:
 This library can be used from NuGet channel:
 
