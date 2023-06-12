@@ -1,15 +1,11 @@
-# UKG Ready API C# .NET SDK
+<img src="https://github.com/Kirkpajl/UkgReady.Api/blob/master/ukg-logo.png?raw=true" alt="UKG Logo" width="192" height="64">
+
+# UKG Ready API implementation in C#.NET
 
 #### IMPORTANT NOTE:
 * I am not actively maintaining this repo project.
 * If you find issues - please reach out with a PR that would solve it. I would try to push NuGET with updates to help as soon as I can.
 * If anyone is interested to take over as maintainer - please contact me, thanks!
-
----
-
-<img src="https://github.com/Kirkpajl/UkgReady.Api/blob/master/ukg-logo.png?raw=true" alt="UKG Logo" width="192" height="64">
-
-### UKG Ready API implementation in C#.NET
 
 ---
 
