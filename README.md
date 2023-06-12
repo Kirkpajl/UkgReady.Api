@@ -9,7 +9,6 @@
 
 ---
 
-<!-- #latest-release -->
 #### Latest NuGet Release:
 This library can be used from NuGet channel:
 
@@ -19,7 +18,6 @@ This library can be used from NuGet channel:
 
 ---
 
-<!-- #how-to -->
 #### Documentation:
 For further details on how to use/integrate the UkgReady.Api package, please refer to the repository wiki page.
 
@@ -27,8 +25,7 @@ For further details on how to use/integrate the UkgReady.Api package, please ref
 
 ---
 
-<!-- #issues-bugs -->
-#### Issue / bug:
+#### Issues / bugs:
 If you have a query, issues or bugs, it means that you have shown interest in this project, and I thank you for that.
 Feel free to ask, suggest, report issue or post a bug [here](https://github.com/kirkpajl/ukgready.api/issues) in context of this library use.
 
@@ -38,15 +35,13 @@ You can find all of the methods to connect with me at my [blog](https://joshuaki
 
 ---
 
-<!-- #references -->
-#### Reference:
+#### References:
 
 * [UKG Ready API](https://secure.workforceready.com.au/ta/docs/rest/public/) - Official documentation
 * [My Blog](https://joshuakirkpatrick.com/) - My personal blog
 
 ---
 
-<!-- #credits -->
 #### Credits / Disclaimer:
 
 * UKG logo used in this readme file is owned by and copyright of UKG.
@@ -55,7 +50,6 @@ You can find all of the methods to connect with me at my [blog](https://joshuaki
 
 ---
 
-<!-- #license -->
 #### License
 
 This work is [licensed](https://github.com/kirkpajl/ukgready.api/blob/master/LICENSE) under:
