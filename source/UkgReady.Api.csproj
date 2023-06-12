@@ -5,6 +5,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="..\README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="System.ComponentModel.Annotations" Version="5.0.0" />
     <PackageReference Include="System.Net.Http.Json" Version="7.0.1" />
     <PackageReference Include="System.Text.Json" Version="7.0.2" />
@@ -12,13 +16,16 @@
 
   <PropertyGroup>
     <PackageId>UkgReady.Api</PackageId>
+    <Title>UkgReady.Api</Title>
+    <Description>A C#/.net client library to interact with the UKG Ready API. The client does not fully implement all the API features (just yet) as it is following the needs of another project.</Description>
     <Version>1.0.0</Version>
     <Authors>Josh Kirkpatrick</Authors>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <RepositoryUrl>https://github.com/Kirkpajl/UkgReady.Api</RepositoryUrl>
     <PackageProjectUrl>https://github.com/Kirkpajl/UkgReady.Api</PackageProjectUrl>
+    <PackageIcon>https://raw.githubusercontent.com/Kirkpajl/UkgReady.Api/master/ukg-icon.png</PackageIcon>
     <PackageTags>UKG Ready, Kronos</PackageTags>
-    <Description>A C#/.net client library to interact with the UKG Ready API. The client does not fully implement all the API features (just yet) as it is following the needs of another project.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
 </Project>
