@@ -28,14 +28,14 @@ await client.LoginAsync("[API KEY]", "[USERNAME]", "[PASSWORD]", "[COMPANYNAME]"
 // Retrieve the basic employee info
 var employees = await ukgReady.GetEmployeesAsync();
 employees = employees
-.OrderBy(e => e.LastName)
-.ThenBy(e => e.FirstName)
-.ToArray();
+	.OrderBy(e => e.LastName)
+	.ThenBy(e => e.FirstName)
+	.ToArray();
 
 // Write the employee info to the console window
 foreach (var employee in employees)
 {
-Console.WriteLine($"  [{employee.Id}]:  {employee.LastName}, {employee.FirstName} - Emp Id:  {employee.EmployeeId}");
+	Console.WriteLine($"  [{employee.Id}]:  {employee.LastName}, {employee.FirstName} - Emp Id:  {employee.EmployeeId}");
 }
 ```
 
