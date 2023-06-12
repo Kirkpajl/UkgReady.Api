@@ -1,4 +1,4 @@
-<img src="https://github.com/Kirkpajl/UkgReady.Api/blob/master/ukg-logo.png?raw=true" alt="UKG Logo" width="192" height="64">
+![UKG Logo](https://raw.githubusercontent.com/Kirkpajl/UkgReady.Api/master/ukg-logo.png "UKG Logo")
 
 # UKG Ready API implementation in C#.NET
 
